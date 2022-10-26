@@ -1,0 +1,6 @@
+*.stl
+*.png
+*.bak
+.deps
+media
+libraries
