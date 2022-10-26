@@ -94,7 +94,7 @@ common_head_hex_diameter = 2*common_head_hex_radius;
 module hex(radius,height)
 {
   // create hex head 
-  linear_extrude( height ) hexagon( radius=radius );
+  linear_extrude( height ) regular_polygon( 6, radius=radius );
 } // end hex
 
 // wifi_plug_bolt:
