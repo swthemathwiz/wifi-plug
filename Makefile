@@ -74,6 +74,7 @@ clean:
 distclean: clean
 	rm -rf $(DEPDIR)
 
+local-libraries: SHELL := /usr/bin/bash
 local-libraries:
 	@[ -d $(LIBRARIES)  ] || mkdir $(LIBRARIES)
 	# Install the repositories
