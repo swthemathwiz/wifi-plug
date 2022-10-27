@@ -17,18 +17,19 @@ forms (cap or nut).
 
 [![View Model](../media/media/wifi-plug-bolt.icon.png)](../media/media/wifi-plug-bolt.stl "View Model of WIFI Plug Bolt")
 
-### Nut
-
-[![View Model](../media/media/wifi-plug-nut.icon.png)](../media/media/wifi-plug-nut.stl "View Model of WIFI Plug Nut")
-
 ### Cap
 
 [![View Model](../media/media/wifi-plug-cap.icon.png)](../media/media/wifi-plug-cap.stl "View Model of WIFI Plug Cap")
 
+### Nut
+
+[![View Model](../media/media/wifi-plug-nut.icon.png)](../media/media/wifi-plug-nut.stl "View Model of WIFI Plug Nut")
+
 ## Source
 
-The models are built using OpenSCAD. *wifi-plug.scad* is the main file for the
-set of parts.
+The models are built using OpenSCAD. *wifi-plug.scad* is the common main file
+for all parts. *wifi-plug-bolt.scad*, *wifi-plug-cap.scad*, and *wifi-plug-nut.scad*
+build the individual parts.
 
 ### Libraries
 
@@ -56,6 +57,11 @@ and then the folder should now include the following files and directories:
     ├── threadlib/
     └── thread_profile.scad
 ```
+
+Alternately, if you're on Linux, `make local-libraries` should fetch all the files
+and place them in the local directory "./libraries". Then, you can set the environment variable
+[OPENSCADPATH](https://wikibooks.org/wiki/OpenSCAD_User_Manual/Libraries#Setting_OPENSCADPATH)
+to include that directory in openscad's library search path.
 
 ## Printing
 
