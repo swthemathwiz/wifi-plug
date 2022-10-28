@@ -13,17 +13,47 @@ your computer.
 The model consists of a bolt and fastener, with the fastener available in two
 forms (cap or nut).
 
+<div class="model" data-name="WIFI Plug Bolt" data-icon-size="128" data-left-icon="wifi-plug-bolt.icon.png" data-left="wifi-plug-bolt.stl">
+
 ### Bolt
 
-[![View Model](../media/media/wifi-plug-bolt.icon.png)](../media/media/wifi-plug-bolt.stl "View Model of WIFI Plug Bolt")
+The bolt is a 1/4"-20 UNC thread, that has been "squared-off" on
+one side. Standard threading for antennas is a finer 1/4"-36 UNS, but
+the coarse thread prints easier.
+
+</div>
+
+<div class="model" data-name="WIFI Plug Cap" data-icon-size="128" data-left-icon="wifi-plug-cap.icon.png" data-left="wifi-plug-cap.stl">
 
 ### Cap
 
-[![View Model](../media/media/wifi-plug-cap.icon.png)](../media/media/wifi-plug-cap.stl "View Model of WIFI Plug Cap")
+A knurled cap that matches the bolt. It is slightly longer than
+the bolt so it should completely cover the bolt.
+
+</div>
+
+<div class="model" data-name="WIFI Plug Nut" data-icon-size="128" data-left-icon="wifi-plug-nut.icon.png" data-left="wifi-plug-nut.stl">
 
 ### Nut
 
-[![View Model](../media/media/wifi-plug-nut.icon.png)](../media/media/wifi-plug-nut.stl "View Model of WIFI Plug Nut")
+A nut that matches the bolt is provided, mostly for convenience.
+
+</div>
+
+## Printing
+
+I use a Creality Ender 3 Pro to build from PLA with a **layer height of 0.12 mm**.
+
+**N.B.** The bolt part is sized to the exact specification of the metal parts
+(6.35mm outer diameter with 5.85mm across the flat part), but, depending on the
+accuracy of your printer, you may wish to scale the part to accommodate. You can
+do this either in source (the scale percentage) or in your slicing software. I
+use a 2% oversize.
+
+## Installation
+
+Just figure out the bolt's flat side, align it with the hole's flat side, slid
+the bolt thru the hole, and screw on the cap or nut.
 
 ## Source
 
@@ -62,21 +92,6 @@ Alternately, if you're building on Linux, `make local-libraries` should fetch al
 and place them in the local directory "./libraries". Then, you can set the environment variable
 [OPENSCADPATH](https://wikibooks.org/wiki/OpenSCAD_User_Manual/Libraries#Setting_OPENSCADPATH)
 to include that directory in OpenSCAD's library search path.
-
-## Printing
-
-I use a Creality Ender 3 Pro to build from PLA with a **layer height of 0.12 mm**.
-
-**N.B.** The bolt part is sized to the exact specification of the metal parts
-(6.35mm outer diameter with 5.85mm across the flat part), but, depending on the
-accuracy of your printer, you may wish to scale the part to accommodate. You can
-do this either in source (the scale percentage) or in your slicing software. I
-use a 2% oversize.
-
-## Installation
-
-Just figure out the bolt's flat side, align it with the hole's flat side, slid
-the bolt thru the hole, and screw on the cap or nut.
 
 ## Also Available on Thingiverse
 
