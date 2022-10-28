@@ -13,7 +13,7 @@ your computer.
 The model consists of a bolt and fastener, with the fastener available in two
 forms (cap or nut).
 
-<div class="model" data-name="WIFI Plug Bolt" data-icon-size="128" data-left-icon="wifi-plug-bolt.icon.png" data-left="wifi-plug-bolt.stl">
+<div class="model" data-name="WIFI Plug Bolt" data-icon-size="128" data-left-icon="wifi-plug-bolt.icon.png" data-left="wifi-plug-bolt.stl"><!-- expanded by annotate-model --><table align="center" width="100%"><tbody><tr width="100%"><td align="center" width="160" height="160"><a href="../media/media/wifi-plug-bolt.stl" target="_blank" title="View WIFI Plug Bolt Model"><img src="../media/media/wifi-plug-bolt.icon.png" alt="WIFI Plug Bolt Model" width="128" height="128" /></a></td><td>
 
 ### Bolt
 
@@ -21,24 +21,24 @@ The bolt is a 1/4"-20 UNC thread, that has been "squared-off" on
 one side. Standard threading for antennas is a finer 1/4"-36 UNS, but
 the coarse thread prints easier.
 
-</div>
+</td></tr></tbody></table></div>
 
-<div class="model" data-name="WIFI Plug Cap" data-icon-size="128" data-left-icon="wifi-plug-cap.icon.png" data-left="wifi-plug-cap.stl">
+<div class="model" data-name="WIFI Plug Cap" data-icon-size="128" data-left-icon="wifi-plug-cap.icon.png" data-left="wifi-plug-cap.stl"><!-- expanded by annotate-model --><table align="center" width="100%"><tbody><tr width="100%"><td align="center" width="160" height="160"><a href="../media/media/wifi-plug-cap.stl" target="_blank" title="View WIFI Plug Cap Model"><img src="../media/media/wifi-plug-cap.icon.png" alt="WIFI Plug Cap Model" width="128" height="128" /></a></td><td>
 
 ### Cap
 
 A knurled cap that matches the bolt. It is slightly longer than
 the bolt so it should completely cover the bolt.
 
-</div>
+</td></tr></tbody></table></div>
 
-<div class="model" data-name="WIFI Plug Nut" data-icon-size="128" data-left-icon="wifi-plug-nut.icon.png" data-left="wifi-plug-nut.stl">
+<div class="model" data-name="WIFI Plug Nut" data-icon-size="128" data-left-icon="wifi-plug-nut.icon.png" data-left="wifi-plug-nut.stl"><!-- expanded by annotate-model --><table align="center" width="100%"><tbody><tr width="100%"><td align="center" width="160" height="160"><a href="../media/media/wifi-plug-nut.stl" target="_blank" title="View WIFI Plug Nut Model"><img src="../media/media/wifi-plug-nut.icon.png" alt="WIFI Plug Nut Model" width="128" height="128" /></a></td><td>
 
 ### Nut
 
 A nut that matches the bolt is provided, mostly for convenience.
 
-</div>
+</td></tr></tbody></table></div>
 
 ## Printing
 
