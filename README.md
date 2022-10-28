@@ -58,7 +58,7 @@ and then the folder should now include the following files and directories:
     └── thread_profile.scad
 ```
 
-Alternately, if you're on Linux, `make local-libraries` should fetch all the files
+Alternately, if you're building on Linux, `make local-libraries` should fetch all the files
 and place them in the local directory "./libraries". Then, you can set the environment variable
 [OPENSCADPATH](https://wikibooks.org/wiki/OpenSCAD_User_Manual/Libraries#Setting_OPENSCADPATH)
 to include that directory in OpenSCAD's library search path.
@@ -77,3 +77,7 @@ use a 2% oversize.
 
 Just figure out the bolt's flat side, align it with the hole's flat side, slid
 the bolt thru the hole, and screw on the cap or nut.
+
+## Also Available on Thingiverse
+
+STLs are available on [Thingiverse](https://www.thingiverse.com/thing:).
