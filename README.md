@@ -36,7 +36,9 @@ the bolt so it should completely cover the bolt.
 
 ### Nut
 
-A nut that matches the bolt is provided, mostly for convenience.
+A nut that matches the bolt is provided, mostly for convenience. Either the cap
+or the nut is needed, not both.
+
 
 </td></tr></tbody></table></div>
 
