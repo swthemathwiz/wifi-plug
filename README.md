@@ -6,7 +6,7 @@ This is a 3D-printable [OpenSCAD](https://openscad.org/) plug to fill up those
 empty WIFI antenna holes left behind when you remove the WIFI capability from
 your computer.
 
-![Image of WIFI Plug](../media/media/mount-view.jpg?raw=true "Glorious WIFI Plug")
+![Image of WIFI Plug](../media/media/wifi-plug-installed.jpg "Glorious WIFI Plug")
 
 ## Model and Parts
 
