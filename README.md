@@ -48,9 +48,9 @@ I use a Creality Ender 3 Pro to build from PLA with a **layer height of 0.12 mm*
 
 **N.B.** The bolt part is sized to the exact specification of the metal parts
 (6.35mm outer diameter with 5.85mm across the flat part), but, depending on the
-accuracy of your printer, you may wish to scale the part to accommodate. You can
-do this either in source (the scale percentage) or in your slicing software. I
-use a 2% oversize.
+accuracy of your printer, you may wish to scale the part to accommodate printing
+tolerances. You can do this either in source (the scale percentage) or in your
+slicing software. I use a 2% oversize.
 
 ## Installation
 
@@ -97,4 +97,4 @@ to include that directory in OpenSCAD's library search path.
 
 ## Also Available on Thingiverse
 
-STLs are available on [Thingiverse](https://www.thingiverse.com/thing:).
+STLs are available on [Thingiverse](https://www.thingiverse.com/thing:5600400).
