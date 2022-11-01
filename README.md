@@ -97,4 +97,4 @@ to include that directory in OpenSCAD's library search path.
 
 ## Also Available on Thingiverse
 
-STLs are available on [Thingiverse](https://www.thingiverse.com/thing:5600400).
+STLs are available on [Thingiverse](https://www.thingiverse.com/thing:5600542).
